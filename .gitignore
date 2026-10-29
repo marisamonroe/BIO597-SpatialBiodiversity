@@ -5,3 +5,7 @@ __pycache__/
 .ipynb_checkpoints/
 AnswerKey*
 Langaha-cleaned.csv
+docs/labs/bioclim
+*.geojson
+!docs/data/amphibians+bioclim.geojson
+docs/labs/_*.ipynb
