@@ -8,4 +8,12 @@ Langaha-cleaned.csv
 docs/labs/bioclim
 *.geojson
 !docs/data/amphibians+bioclim.geojson
+<<<<<<< HEAD
+=======
+!docs/data/amphibians.geojson
+!docs/data/ME_ImaginaryParks.geojson
+!docs/data/ME_BlobStripeParks.geojson
+>>>>>>> a48625705192422c1de4cf101b18d94a1912255f
 docs/labs/_*.ipynb
+docs/labs/EasternSnakes/*
+docs/labs/outputs/Lab10/
